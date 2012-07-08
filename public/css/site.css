@@ -1,4 +1,49 @@
+html { 
+	background: url(../background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 body{
 	font-size: 1.1em;
-	font-family: Georgia, Verdana, Helvetica;
+}
+
+.label{
+	padding-bottom: 12px;
+	width: 40px;
+}
+.left{
+	float: left;
+}
+.clear {
+	clear: both;
+}
+.info {
+	padding: 20px;
+	width: 240px;
+	position: absolute;
+	right: 30px;
+	
+	background: rgb(255, 255, 255) ; opacity: 0.85;
+	border-radius:7px;
+	-moz-border-radius:25px;
+}
+.info p {
+	font-size: 0.8em;
+	color: #333333;
+	margin-top: 1px;
+	margin-bottom: 15px;
+}
+h1{
+	padding: 0;
+	margin: 0;
+	font-size: 1.6em;
+}
+#links {
+	top:26px;
+}
+#bio {
+	top:260px;
 }
