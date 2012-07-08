@@ -1,0 +1,10 @@
+{
+  "name": "mlamz.com",
+  "description": "mlamz - Michael Lam",
+  "author": "Michael Lam <michael@michaellam.co.uk>",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": "0.25.0"
+  }
+}
