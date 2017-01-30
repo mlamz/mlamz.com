@@ -1372,3 +1372,8 @@ pre .javascript .function {
   margin-right: 5px;
   display: inline-block;
 }
+
+.menu__item__link--brand__image {
+  width: 500px !important;
+
+}

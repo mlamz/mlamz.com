@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Health and Racing Bicycles
+subtitle: A Journey in Health and Racing Bicycles
 description:
-author: John Doe
-language:
+author: Michael Lam
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://mlamz.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -52,8 +52,8 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+date_format: dddd D MMMM
+time_format: YYYY
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -63,10 +63,19 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: overdose
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
   repo: https://git.heroku.com/growing-mountain-1842.git
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+# Disqus comments
+disqus_shortname: mlamz.com
+
