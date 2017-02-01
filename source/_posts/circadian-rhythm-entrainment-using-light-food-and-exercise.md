@@ -2,7 +2,7 @@
 title: Circadian Rhythm Entrainment using Light, Food and Exercise
 date: 2017-02-01
 banner: 
-  url: /circadian-timing-of-food-and-exercise/mexico.jpg
+  url: /circadian-rhythm-entrainment-using-light-food-and-exercise/mexico.jpg
   width: 720
   height: 540
 tags: 
@@ -47,7 +47,7 @@ Starting the central pacemarker with bright light in the morning but skimping on
 
 Dr. Satchin Panda's [research](https://www.youtube.com/watch?time_continue=29&v=qPpAvvPG0nc) showed that mice who had their food intake restricted to an 8 hour window during their optimal circadian feeding time of day not only had much better biomarkers for metabolic health but they also had more lean body mass and improved endurance.
 
-{% img no-bottom-margin /circadian-timing-of-food-and-exercise/drsatchinpandaslide.jpg 720 414 title alt %}*A screenshot from Dr. Satchin Panda's presentation, [Watching Your Diet: One Click at a Time](https://www.youtube.com/watch?time_continue=29&v=qPpAvvPG0nc)*
+{% img no-bottom-margin /circadian-rhythm-entrainment-using-light-food-and-exercise/drsatchinpandaslide.jpg 720 414 title alt %}*A screenshot from Dr. Satchin Panda's presentation, [Watching Your Diet: One Click at a Time](https://www.youtube.com/watch?time_continue=29&v=qPpAvvPG0nc)*
 
 #### The takeaways
 
