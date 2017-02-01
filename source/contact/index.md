@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2017-02-01 05:18:10
+date: 2017-02-01
 ---
 Feel free to contact me on any of the following channels, or feel free to just give me kudos on Strava!
 

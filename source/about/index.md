@@ -1,5 +1,6 @@
 ---
 title: About Me
+date: 2017-02-01
 ---
 
 I'm Michael Lam. I'm a Cat 3 cyclist living in Colorado with a keen interest in health.
@@ -16,7 +17,9 @@ I managed my first podium in 2015. I lost the Salida Crit by a fraction. I'm the
 
 {% img no-bottom-margin /about/images/salida-2015.jpg 720 479 %}*Salida Crit 2015.*
 
-**This irked me no end.** I made lifestyle changes. I worked on my mental game. I joined [Primal-Audi Denver](http://hartracing.org/). I focused and trained hard. In 2016, I won the Salida Crit this time around. I also won five other races, numerous podiums and the overall [BRAC Road Cup](https://www.coloradocycling.org/bar/menu) in Cat 4. What I've achieved is a drop in the ocean for some, yet I'm exceedingly proud of fulfilling and exceeding my goals.
+**This irked me no end even though I was fortunate to podium at all**, given that the leading two crashed in the final corner. 
+
+I made lifestyle changes. I worked on my mental game. I joined [Primal-Audi Denver](http://hartracing.org/). I focused and trained hard. In 2016, I won the Salida Crit this time around. I also won five other races, numerous podiums and the overall [BRAC Road Cup](https://www.coloradocycling.org/bar/menu) in Cat 4. What I've achieved is a drop in the ocean for some, yet I'm exceedingly proud of fulfilling and exceeding my goals.
 
 {% img no-bottom-margin /about/images/salida-2016.jpg 720 405 %}*Salida Crit 2016.*
 
@@ -30,6 +33,6 @@ I moved to Colorado with my wife Kate after living in England for 28 years. The 
 
 ## Personal and Family Health
 
-My outlook on health was forever changed upon two events in my life. When I was 19, my father died from colon cancer and watching him deteriorate in his final years was hard to take in. A few years later, I became afflicted with *cholinergic urticaria* - a horrible disease that made my whole body feel as if it was on fire. It was triggered by slight changes in temperature or by stress. I lived with this disease for a number of years, seeing doctors and dermatologists. Finally, a treatment worked. It was UVB phototherapy that gradually cured my condition, and I believe an increase in outdoor exercise through cycling helped also. I'm pleased to say I'm now free of this condition. **The painful memories have etched in me a mentality to never experience anything like this again.** 
+My outlook on health was forever changed upon two events in my life. When I was 19, my father died from colon cancer and watching him deteriorate in his final years was hard to take in. A few years later, I became afflicted with *cholinergic urticaria* - a horrible disease that made my whole body feel as if it was on fire. It was triggered by slight changes in temperature or by stress. I lived with this disease for a number of years, seeing doctors and dermatologists. Finally, a treatment worked. It was UVB phototherapy that gradually cured my condition, and I believe an increase in outdoor exercise through cycling helped also. I'm pleased to say I'm now free of this condition. **The painful memories have etched in me a hardened mentality to never experience anything like this again.**
 
 
