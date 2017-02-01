@@ -225,6 +225,7 @@
   display: block;
   margin: $base-margin -1rem;
   width: calc(100% + 2rem);
+  height: auto;
   @media #{$desktop} {
     max-width: 100%;
     margin-left: auto;
