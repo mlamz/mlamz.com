@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 2rem -1rem; }
     @media only screen and (max-width: 624px) {
       .article .article__contents img {
-        width: calc(100% + 2rem); } }
+        width: calc(100% + 2rem); height:auto; } }
     @media only screen and (min-width: 624px) {
       .article .article__contents img {
         max-width: 100%;
@@ -333,7 +333,7 @@ h1, h2, h3, h4, h5, h6 {
 .article__image {
   display: block;
   margin: 1.5rem -1rem;
-  width: calc(100% + 2rem); }
+  width: calc(100% + 2rem); height:auto; }
   @media only screen and (min-width: 624px) {
     .article__image {
       max-width: 100%;
