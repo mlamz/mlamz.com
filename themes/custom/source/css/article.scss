@@ -19,7 +19,7 @@
       margin: 2rem -1rem;
       @media #{$mobile} {
         width: calc(100% + 2rem);
-        height: auto;
+        height: auto; 
       }
       @media #{$desktop} {
         max-width: 100%;
