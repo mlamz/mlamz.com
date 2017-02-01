@@ -1,6 +1,6 @@
 ---
 title: Circadian Rhythm Entrainment using Light, Food and Exercise
-date: February 1, 2017
+date: 2017/2/1
 banner: 
   url: /circadian-timing-of-food-and-exercise/mexico.jpg
   width: 720
