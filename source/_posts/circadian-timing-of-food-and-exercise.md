@@ -56,7 +56,7 @@ Dr. Satchin Panda's [research](https://www.youtube.com/watch?time_continue=29&v=
 
 ### Optimal Circadian Timing of Exercise
 
-The studies suggest that moderate intensity is fine at any time during daylight hours, and that more strenous exercise should optimally be done in the afternoon or early evening. This is the [best blog post](http://bayesianbodybuilding.com/best-time-to-work-out/) I have found on the issue which references multiple studies, with another [study here](http://journals.lww.com/nsca-jscr/Citation/2017/01000/Effect_of_Time_of_Day_on_Biochemical_Markers_in.30.aspx). It is unfortunate that access to the latter is not free, but it is discussed in the following podcast by Ben Greenfield on [The Best Time Of Day To Exercise](https://www.youtube.com/watch?v=QvIT49L8Oo4&t=1444s). The study found that: 
+The studies suggest that moderate intensity is fine at any time during daylight hours, and that more strenuous exercise should optimally be done in the afternoon or early evening. This is the [best blog post](http://bayesianbodybuilding.com/best-time-to-work-out/) I have found on the issue which references multiple studies, with another [study here](http://journals.lww.com/nsca-jscr/Citation/2017/01000/Effect_of_Time_of_Day_on_Biochemical_Markers_in.30.aspx). It is unfortunate that access to the latter is not free, but it is discussed in the following podcast by Ben Greenfield on [The Best Time Of Day To Exercise](https://www.youtube.com/watch?v=QvIT49L8Oo4&t=1444s). The study found that: 
 
 * Exercise causes circadian phase shifting as much as bright light
 * Hard exercise early in the morning causes sleep restriction and sleep disturbances later that evening
