@@ -4,9 +4,9 @@
   <subtitle>A Journey in Health and Racing Bicycles</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://mlamz.com/"/>
+  <link href="http://www.mlamz.com/"/>
   <updated>2017-02-01T03:27:03.000Z</updated>
-  <id>http://mlamz.com/</id>
+  <id>http://www.mlamz.com/</id>
   
   <author>
     <name>Michael Lam</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Circadian Rhythm Entrainment using Light, Food and Exercise</title>
-    <link href="http://mlamz.com/circadian-timing-of-food-and-exercise/"/>
-    <id>http://mlamz.com/circadian-timing-of-food-and-exercise/</id>
+    <link href="http://www.mlamz.com/circadian-timing-of-food-and-exercise/"/>
+    <id>http://www.mlamz.com/circadian-timing-of-food-and-exercise/</id>
     <published>2017-02-01T07:00:00.000Z</published>
     <updated>2017-02-01T03:27:03.000Z</updated>
     
@@ -68,17 +68,17 @@
     </summary>
     
     
-      <category term="circadian rhythm" scheme="http://mlamz.com/tags/circadian-rhythm/"/>
+      <category term="circadian rhythm" scheme="http://www.mlamz.com/tags/circadian-rhythm/"/>
     
-      <category term="intermittent fasting" scheme="http://mlamz.com/tags/intermittent-fasting/"/>
+      <category term="intermittent fasting" scheme="http://www.mlamz.com/tags/intermittent-fasting/"/>
     
-      <category term="food" scheme="http://mlamz.com/tags/food/"/>
+      <category term="food" scheme="http://www.mlamz.com/tags/food/"/>
     
-      <category term="light" scheme="http://mlamz.com/tags/light/"/>
+      <category term="light" scheme="http://www.mlamz.com/tags/light/"/>
     
-      <category term="exercise" scheme="http://mlamz.com/tags/exercise/"/>
+      <category term="exercise" scheme="http://www.mlamz.com/tags/exercise/"/>
     
-      <category term="sleep" scheme="http://mlamz.com/tags/sleep/"/>
+      <category term="sleep" scheme="http://www.mlamz.com/tags/sleep/"/>
     
   </entry>
   
