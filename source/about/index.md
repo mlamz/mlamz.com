@@ -7,7 +7,7 @@ I'm Michael Lam. I'm a Cat 3 cyclist living in Colorado with a keen interest in 
 
 *This blog isn't about drugs, supplements or quick fixes.* It's about making lifestyle changes based upon our biology and psychology to improve health and athletic performance.
 
-{% img no-bottom-margin /about/images/hawaii.jpg 720 479 My Wife Kate and I %}*Hawaii, 2016.*
+{% img no-bottom-margin /about/images/hawaii.jpg 720 479 %}*Hawaii, 2016.*
 
 ## Racing Bicycles
 

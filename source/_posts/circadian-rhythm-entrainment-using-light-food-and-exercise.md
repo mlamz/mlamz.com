@@ -42,7 +42,7 @@ FOOD is excellent at entraining peripheral circadian clocks: if you restrict ani
 {% endblockquote %}
 
 {% blockquote Bill Lagakos http://caloriesproper.com/entraining-central-and-peripheral-circadian-rhythms/ Entraining Central and Peripheral Circadian Rhythms %}
-Starting the central pacemarker with bright light in the morning but skimping on the peripheral pacemaker by skipping breakfast represents a circadian mismatch: Afternoon Diabetes? Central and peripheral circadian rhythms work together.  Bright light and breakfast in the morning.
+Starting the central pacemarker with bright light in the morning but skimping on the peripheral pacemaker by skipping breakfast represents a circadian mismatch: [Afternoon Diabetes](http://caloriesproper.com/afternoon-diabetes-and-nutrient-partitioning-2/)? Central and peripheral circadian rhythms work together.  Bright light and breakfast in the morning.
 {% endblockquote %}
 
 Dr. Satchin Panda's [research](https://www.youtube.com/watch?time_continue=29&v=qPpAvvPG0nc) showed that mice who had their food intake restricted to an 8 hour window during their optimal circadian feeding time of day not only had much better biomarkers for metabolic health but they also had more lean body mass and improved endurance.
