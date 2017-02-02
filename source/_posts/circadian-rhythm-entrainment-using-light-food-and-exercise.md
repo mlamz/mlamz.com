@@ -58,9 +58,9 @@ Dr. Satchin Panda's [research](https://www.youtube.com/watch?time_continue=29&v=
 
 The studies suggest that moderate intensity is fine at any time during daylight hours, and that more strenuous exercise should optimally be done in the afternoon or early evening. This is the [best blog post](http://bayesianbodybuilding.com/best-time-to-work-out/) I have found on the issue which references multiple studies, with another [study here](http://journals.lww.com/nsca-jscr/Citation/2017/01000/Effect_of_Time_of_Day_on_Biochemical_Markers_in.30.aspx). It is unfortunate that access to the latter is not free, but it is discussed in the following podcast by Ben Greenfield on [The Best Time Of Day To Exercise](https://www.youtube.com/watch?v=QvIT49L8Oo4&t=1444s). The study found that: 
 
-* Exercise causes circadian phase shifting as much as bright light
-* Hard exercise early in the morning causes sleep restriction and sleep disturbances later that evening
-* The best time of day to do exercise between 2pm and 6pm.
+* Exercise causes circadian phase shifting as much as bright light.
+* Hard exercise early in the morning causes sleep restriction and sleep disturbances later that evening.
+* The best time of day to do exercise is between 2pm and 6pm.
 * Exercise should be finished no less than 3-4 hours prior to bed time.
 
 #### The takeaways
@@ -78,7 +78,7 @@ So here's a comparison of the old and new eating plans for me:
 
 Here's a comparison of my new exercise plan going forward during weekdays.
 
-**Old:** Training session before sunrise and breakfast. Wait until lunch for first bite of food.
+**Old:** Training session before sunrise. Wait until lunch for first bite of food.
 **New:** Training session after work, preferably outside if it is light. Have optional pre-workout protein.
 
 How about getting that all important protein for recovery? I'd rather keep the feeding window to a shorter time window and skip the post workout. It appears there is a new research study, [Pre- versus post-exercise protein intake has similar effects on muscular adaptations](https://peerj.com/articles/2825.pdf) that claims that a pre-workout is just as effective as a post workout.
@@ -86,7 +86,7 @@ How about getting that all important protein for recovery? I'd rather keep the f
 
 ## Next steps
 
-It seems that it is not only the timing and composition of light that entrains our circadian rhythms, but also other factors such as the timing of food and exercise. I believe that temperature can play a large role too and I hope to research this further. I would like to investigate the benefits of a strong circadian rhythm in health biomarkers for a future blog post. 
+It seems that it is not only the timing and composition of light that entrains our circadian rhythms, but also other factors such as the timing of food and exercise. I believe that temperature can play a large role too and I hope to research this further. I would also like to investigate the benefits of a strong circadian rhythm in health biomarkers for a future blog post. 
 
 This is my first blog post, so do let me know what you think in the Facebook comments or in the comments section below.
 
