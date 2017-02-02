@@ -43,7 +43,6 @@ $icon-margin: ($menu-height - $icon-size) / 2;
   height: $menu-height;
   @media #{$mobile} {
     width: 100%;
-    text-align: center;
     border-bottom: 1px solid $semi-white;
     .menu__item {
       float: none;
@@ -60,7 +59,6 @@ $icon-margin: ($menu-height - $icon-size) / 2;
     white-space: nowrap;
     padding: 0 1.5rem;
     box-sizing: border-box;
-    text-align: center;
   }
 }
 

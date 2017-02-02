@@ -90,7 +90,6 @@ h1, h2, h3, h4, h5, h6 {
   @media only screen and (max-width: 624px) {
     .menu__left-area {
       width: 100%;
-      text-align: center;
       border-bottom: 1px solid #F6F6F6; }
       .menu__left-area .menu__item {
         float: none; } }
@@ -104,8 +103,7 @@ h1, h2, h3, h4, h5, h6 {
       overflow-x: auto;
       white-space: nowrap;
       padding: 0 1.5rem;
-      box-sizing: border-box;
-      text-align: center; } }
+      box-sizing: border-box; } }
 
 .menu__item {
   position: relative;
