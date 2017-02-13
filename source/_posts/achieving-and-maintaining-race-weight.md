@@ -64,7 +64,7 @@ There is evidence that [calorie shifting](http://suppversity.blogspot.com/2014/1
 The principle is as simple as effective. You're dieting for 11 days and "refeeding", i.e. eat ad-libitum for three days. The intention is to achieve a temporary deficit that's large enough to induce significant weight and fat loss in spite of the potential of temporary over-indulgence on the refeeding days.
 {% endblockquote %}
 
-Another study showed that the testosterone levels of rats who were underfed and subsequently had a refeeding period, i.e. calorie shifted, had [testosterone levels that rebounded and exceed the control group](https://www.researchgate.net/publication/21975062_The_influence_of_fed_restriction_and_subsequent_re-feeding_on_gonadotrophin_secretion_and_serum_testosterone_levels_in_male_rats). 
+Another study showed that the testosterone levels of rats who were underfed and subsequently had a refeeding period, i.e. calorie shifted, had [testosterone levels that rebounded and exceeded the control group](https://www.researchgate.net/publication/21975062_The_influence_of_fed_restriction_and_subsequent_re-feeding_on_gonadotrophin_secretion_and_serum_testosterone_levels_in_male_rats). 
 
 ### Saturated and Monounsaturated Fats
 
