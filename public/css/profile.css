@@ -21,7 +21,7 @@
 
 .profile__meta__description {
   font-size: 14px;
-  color: #999;
+  color: #666;
   line-height: 1.4em;
   margin-top: 4px; }
 
@@ -31,5 +31,5 @@
 
 .profile__social-links__item {
   font-size: 24px;
-  color: #999;
+  color: #666;
   margin: 0 12px; }

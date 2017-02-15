@@ -41,7 +41,7 @@
   @media only screen and (max-width: 624px) {
     .menu__left-area {
       width: 100%;
-      border-bottom: 1px solid #F6F6F6; }
+      border-bottom: 1px solid #F3F3F3; }
       .menu__left-area .menu__item {
         float: none; } }
 
@@ -80,9 +80,9 @@
     -moz-transition: background-color 0.3s ease, -moz-transform 0.3s ease;
     transition: background-color 0.3s ease, transform 0.3s ease; }
   .menu__item:hover .menu__item__link {
-    color: #999; }
+    color: #666; }
   .menu__item:hover:after {
-    background-color: #999;
+    background-color: #666;
     -webkit-transform: translateY(0);
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);

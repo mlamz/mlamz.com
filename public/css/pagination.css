@@ -12,9 +12,9 @@
   .pagination .current {
     color: #454545; }
   .pagination .space {
-    color: #999; }
+    color: #666; }
   .pagination a {
-    color: #999;
+    color: #666;
     border-color: transparent;
     -webkit-transition: border-color 0.3s ease, color 0.3s ease;
     -moz-transition: border-color 0.3s ease, color 0.3s ease;

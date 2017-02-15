@@ -9,7 +9,7 @@
 .post-list__item {
   overflow: hidden;
   padding: 1rem 0;
-  border-bottom: 1px solid #F6F6F6; }
+  border-bottom: 1px solid #F3F3F3; }
   .post-list__item:last-child {
     border: 0; }
 
@@ -52,12 +52,12 @@
   transition: transform 0.3s ease; }
 
 .post-list__item__meta__link {
-  color: #999; }
+  color: #666; }
   .post-list__item__meta__link:hover {
     color: #3f79ff; }
 
 .post-list__item__meta__label {
-  color: #999;
+  color: #666;
   margin: 0 0.5rem; }
 
 .post-list__item__title {

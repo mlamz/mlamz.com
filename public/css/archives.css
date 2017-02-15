@@ -14,7 +14,7 @@
 
 .archive-list-count {
   font-size: 14px;
-  color: #999; }
+  color: #666; }
   .archive-list-count:before {
     content: '('; }
   .archive-list-count:after {
