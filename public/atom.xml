@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mlamz.com/"/>
-  <updated>2017-02-26T14:00:50.000Z</updated>
+  <updated>2017-02-26T14:05:55.000Z</updated>
   <id>http://www.mlamz.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.mlamz.com/sunlight-and-circadian-rhythms/"/>
     <id>http://www.mlamz.com/sunlight-and-circadian-rhythms/</id>
     <published>2017-02-26T07:00:00.000Z</published>
-    <updated>2017-02-26T14:00:50.000Z</updated>
+    <updated>2017-02-26T14:05:55.000Z</updated>
     
     <content type="html"><![CDATA[<img src="/sunlight-and-circadian-rhythms/sun.jpg"/><p>In this blog post, I present the evidence to show why exposure to sunlight, in combination with a well-entrained circadian rhythm, is the number one determining factor to our health and longevity.</p>
 <p>Firstly, I explain the mechanisms behind the photoelectric effect of sunlight. This is the ability of sunlight to penetrate the skin and induce a <em>negative electric charge</em> within the water in our cells and mitochondrial membranes.</p>
@@ -84,6 +84,32 @@
     
     </summary>
     
+    
+      <category term="circadian rhythm" scheme="http://www.mlamz.com/tags/circadian-rhythm/"/>
+    
+      <category term="light" scheme="http://www.mlamz.com/tags/light/"/>
+    
+      <category term="sunlight" scheme="http://www.mlamz.com/tags/sunlight/"/>
+    
+      <category term="mitochondria" scheme="http://www.mlamz.com/tags/mitochondria/"/>
+    
+      <category term="photoelectric effect" scheme="http://www.mlamz.com/tags/photoelectric-effect/"/>
+    
+      <category term="structured water" scheme="http://www.mlamz.com/tags/structured-water/"/>
+    
+      <category term="health" scheme="http://www.mlamz.com/tags/health/"/>
+    
+      <category term="longevity" scheme="http://www.mlamz.com/tags/longevity/"/>
+    
+      <category term="melatonin" scheme="http://www.mlamz.com/tags/melatonin/"/>
+    
+      <category term="cholinergic urticaria" scheme="http://www.mlamz.com/tags/cholinergic-urticaria/"/>
+    
+      <category term="immune system" scheme="http://www.mlamz.com/tags/immune-system/"/>
+    
+      <category term="apoptosis" scheme="http://www.mlamz.com/tags/apoptosis/"/>
+    
+      <category term="artificial light" scheme="http://www.mlamz.com/tags/artificial-light/"/>
     
   </entry>
   

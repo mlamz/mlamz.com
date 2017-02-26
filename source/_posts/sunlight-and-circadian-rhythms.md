@@ -6,6 +6,19 @@ banner:
   width: 720
   height: 517
 tags:
+  - circadian rhythm
+  - sunlight
+  - light
+  - mitochondria
+  - photoelectric effect
+  - structured water
+  - health
+  - longevity
+  - melatonin
+  - cholinergic urticaria
+  - immune system
+  - apoptosis
+  - artificial light
 ---
 In this blog post, I present the evidence to show why exposure to sunlight, in combination with a well-entrained circadian rhythm, is the number one determining factor to our health and longevity.
 
