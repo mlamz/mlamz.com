@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mlamz.com/"/>
-  <updated>2017-02-28T23:23:48.000Z</updated>
+  <updated>2017-04-01T17:41:58.000Z</updated>
   <id>http://www.mlamz.com/</id>
   
   <author>
@@ -14,6 +14,118 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Power Endurance Profile</title>
+    <link href="http://www.mlamz.com/power-vs-endurance/"/>
+    <id>http://www.mlamz.com/power-vs-endurance/</id>
+    <published>2017-04-01T06:00:00.000Z</published>
+    <updated>2017-04-01T17:41:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/power-vs-endurance/salida-crit.jpg"/><p>In this blog post, I look at determining whether I am more inclined towards being a power athlete or an endurance athlete. I do this through several methods - by having my genes analyzed by 23andMe and DNAFit, by analyzing my power profile data, and by general observations through previous experience in comparison to others. I then question how this information should influence my training.</p>
+<h2 id="DNAFit-Genetic-Testing"><a href="#DNAFit-Genetic-Testing" class="headerlink" title="DNAFit Genetic Testing"></a>DNAFit Genetic Testing</h2><p>I’ve had my genes tested through <a href="http://www.23andme.com" target="_blank" rel="external">23AndMe</a>. I then exported the raw genetic data from 23AndMe to be analyzed by <a href="http://www.dnafit.com" target="_blank" rel="external">DNAFit</a>. DNAFit is a company that provide personalized reports on key genes associated with health and fitness, and then compare your statistics next to a variety of professional athletes.</p>
+<h3 id="Power-Endurance-Profile"><a href="#Power-Endurance-Profile" class="headerlink" title="Power Endurance Profile"></a>Power Endurance Profile</h3><p>DNAFit suggests that I am 52% power and 48% endurance in my power endurance profile mix.</p>
+<img src="/power-vs-endurance/power-endurance-profile.jpg" class="no-bottom-margin" width="720" height="256">
+<h3 id="Aerobic-Potential"><a href="#Aerobic-Potential" class="headerlink" title="Aerobic Potential"></a>Aerobic Potential</h3><p>DNAFit suggests that I have a fairly good aerobic potential.</p>
+<img src="/power-vs-endurance/aerobic-potential.jpg" class="no-bottom-margin" width="720" height="333">
+<h3 id="Recovery-Speed"><a href="#Recovery-Speed" class="headerlink" title="Recovery Speed"></a>Recovery Speed</h3><p>DNAFit suggests that I have a fast recovery speed.</p>
+<img src="/power-vs-endurance/recovery-speed.jpg" class="no-bottom-margin" width="720" height="433">
+<h3 id="Notable-Gene-Variations"><a href="#Notable-Gene-Variations" class="headerlink" title="Notable Gene Variations"></a>Notable Gene Variations</h3><p>DNAFit identified certain gene variants in my genetic makeup that contribute towards athletic performance. It then ranks these gene variants according to the degree of contribution they believe each gene variant makes as a whole. I’m fairly pleased to note that the vast majority of all of my gene variants are positively associated with good athletic performance or recovery.</p>
+<p>There were four of my gene variants in particular that DNAFit identified as high effect: TRHR, IL-6, ADRB2 and CRP.</p>
+<table>
+<thead>
+<tr>
+<th>Gene: TRHR</th>
+<th>Variant: GG (CC)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Thyrotrophin Releasing Hormone Receptor</strong><br><i>Associated with regulation of the metabolic rate, mobilisation of fuels during exercise and also growth of lean body tissue.</i></td>
+<td><strong>CC homozygotes are more likely to achieve favourable improvements in lean body mass and muscle growth with strength training programmes.</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Gene: IL-6</th>
+<th>Variant: GG</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Interleukin-6 - a pro- inflammatory cytokine</strong><br><i>Stimulates the immune response to training and is involved in the inflammatory repair process.</i></td>
+<td><strong>Associated with lower levels of inflammation after hard training sessions, leading to quicker recovery times. This genotype has been independently associated with performance in power sports.</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Gene: ADRB2 (Gln27Glu)</th>
+<th>Variant: CC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Adrenoceptor Beta 2</strong><br><i>Beta(2)-adrenergic receptors are expressed throughout the body and serve as receptors for the natural stimulant hormones called catecholamines epinephrine (adrenaline) and norepinephrine. The polymorphisms tested result in amino acid changes, which affect the activity of the receptor and alter the response to these hormones. Beta- adrenergic receptors are found in fat cells, liver and skeletal muscle where they are involved in fat mobilization, blood glucose levels and in vasodilation.</i></td>
+<td><strong>Contributes to positive response to endurance training, including good increases in VO2max.</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Gene: CRP</th>
+<th>Variant: AA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>C-Reactive Protein</strong><br><i>Associated with an acute phase protein which rises in response to inflammation in the body. High CRP is associated with low VO2MAX. Diet and physical activity can reduce CRP levels (although intense exercise can cause short term local increases in CRP). It is stimulated by IL-6 and is often used as a marker for inflammation in blood tests.</i></td>
+<td><strong>Associated with lower levels of CRP which is associated with better VO2max response to training. Associated with lower levels of inflammation after hard training sessions, leading to quicker recovery times.</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="Professional-Athlete-Benchmark"><a href="#Professional-Athlete-Benchmark" class="headerlink" title="Professional Athlete Benchmark"></a>Professional Athlete Benchmark</h3><p>DNAFit then provided a comparison to four professional athletes - Bryan Habana, Andrew Steele, Greg Rutherford and Craig Pickering.</p>
+<p><strong>Bryan Habana</strong></p>
+<p><a href="https://en.wikipedia.org/wiki/Bryan_Habana" target="_blank" rel="external">Bryan Habana</a> is a South African rugby player known for his speed - he is considered by some to be the <a href="http://www.telegraph.co.uk/sport/rugbyunion/international/southafrica/2323508/Is-Bryan-Habana-fastest-of-all-time.html" target="_blank" rel="external">quickest rugby player of all time</a>.</p>
+<img src="/power-vs-endurance/bryan-habana.png" class="no-bottom-margin" width="720" height="303"><em>Myself on the left, Bryan Habana on the right.</em><br><br><strong>Andrew Steele</strong><br><br><a href="https://en.wikipedia.org/wiki/Andrew_Steele" target="_blank" rel="external">Andrew Steele</a> is a British 400m runner, who competed in Beijing 2008. We have an identical power endurance profile.<br><img src="/power-vs-endurance/andrew-steele.png" width="720" height="303">
+<p><strong>Greg Rutherford</strong></p>
+<p><a href="https://en.wikipedia.org/wiki/Greg_Rutherford" target="_blank" rel="external">Greg Rutherford</a> is a British long jumper who won the gold medal at London 2012.<br><img src="/power-vs-endurance/greg-rutherford.png" width="720" height="303"></p>
+<p><strong>Craig Pickering</strong><br><a href="https://en.wikipedia.org/wiki/Craig_Pickering" target="_blank" rel="external">Craig Pickering</a> is a British 100m sprinter who competed at the World Championships in 2007 for the British 4x100m relay.<br><img src="/power-vs-endurance/craig-pickering.png" width="720" height="303"></p>
+<h3 id="Takeaways-from-DNAFit-Genetic-Testing"><a href="#Takeaways-from-DNAFit-Genetic-Testing" class="headerlink" title="Takeaways from DNAFit Genetic Testing"></a>Takeaways from DNAFit Genetic Testing</h3><p>In conclusion, my genes suggest that:</p>
+<ul>
+<li>I am slightly more inclined to be a power athlete than a endurance athlete</li>
+<li>I respond well to strength training and higher intensity exercise with good increases in VO2max</li>
+<li>I recover very quickly from workouts</li>
+<li>Overall, it appears that I have favorable genetics for athletic performance</li>
+</ul>
+<h2 id="Power-Profiling"><a href="#Power-Profiling" class="headerlink" title="Power Profiling"></a>Power Profiling</h2><p>In the following table, I take the best power values (average, not normalized) that TrainingPeaks has recorded for me and compare this to the <a href="http://barrymonaghan.com/cycling-power-profile-chart/" target="_blank" rel="external">Hunter Coggan Power Profile chart</a>. These power values would be my absolute peak values at my top form.</p>
+<img src="/power-vs-endurance/power-profile.png" class="no-bottom-margin" width="720" height="292"><i>* Weight is estimated at 64kg for all values.</i><br><br>The power profile suggests that I have a balanced power profile that is not particularly skewed towards shorter or longer time intervals.<br><h2>Real World Observations</h2>The races that I get my best results are crits and short time trials, whereas I seem to struggle on longer, flat time trials and hill climbs. I also seem to do very well in the 15 second to 45 second time period which isn’t reflected in the Hunter Coggan Power Profile charts. It’s this time period, especially on a short, steep hill where I seem to excel the most over other riders of a similar ability.<br><br>I also seem to respond much better to higher intensity training sessions. Last year, I attribute much of my race speed to the frequent short intense workouts I did in favor of longer rides and higher volume.<br><h2>Next Steps</h2>My real world observations seem to correlate with my genetic profiling by DNAFit. I appear to benefit from shorter, more intense workouts and have a high VO2max trainability. I will also start weight training, in order to see if training my neuromuscular system will have any benefit.<br><br>I have just converted part of my basement into a mini gym with a squat rack. I’m planning on reducing the volume of aerobic training on the bike and introducing weight training twice per week. This will probably negatively affect my race performances this year. My priority this season however is to understand myself better - what works for me in terms of optimal training, lifestyle and nutrition, rather than outright race results.<br><img src="/power-vs-endurance/basement.jpg" class="no-bottom-margin" width="720" height="523">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/power-vs-endurance/salida-crit.jpg&quot;/&gt;&lt;p&gt;In this blog post, I look at determining whether I am more inclined towards being a power
+    
+    </summary>
+    
+    
+      <category term="training" scheme="http://www.mlamz.com/tags/training/"/>
+    
+      <category term="genetics" scheme="http://www.mlamz.com/tags/genetics/"/>
+    
+      <category term="power" scheme="http://www.mlamz.com/tags/power/"/>
+    
+      <category term="racing" scheme="http://www.mlamz.com/tags/racing/"/>
+    
+      <category term="weights" scheme="http://www.mlamz.com/tags/weights/"/>
+    
+      <category term="endurance" scheme="http://www.mlamz.com/tags/endurance/"/>
+    
+  </entry>
   
   <entry>
     <title>Sunlight and Circadian Rhythms - the Number One Determinant of our Health and Longevity</title>
@@ -173,6 +285,8 @@
     </summary>
     
     
+      <category term="training" scheme="http://www.mlamz.com/tags/training/"/>
+    
       <category term="intermittent fasting" scheme="http://www.mlamz.com/tags/intermittent-fasting/"/>
     
       <category term="calorie restriction" scheme="http://www.mlamz.com/tags/calorie-restriction/"/>
@@ -180,8 +294,6 @@
       <category term="food" scheme="http://www.mlamz.com/tags/food/"/>
     
       <category term="race weight" scheme="http://www.mlamz.com/tags/race-weight/"/>
-    
-      <category term="training" scheme="http://www.mlamz.com/tags/training/"/>
     
   </entry>
   

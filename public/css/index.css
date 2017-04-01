@@ -270,13 +270,18 @@ h4 {
     border-top: 1px solid #666;
     width: 100%;
     text-align: left;
-    border-collapse: collapse; }
+    border-collapse: collapse;
+    background-color: #FCFCFC;
+    table-layout: fixed;
+    margin-bottom: 20px; }
     .article .article__contents table thead tr th {
-      border-bottom: 2px solid #F3F3F3;
-      padding: 0.25rem 0; }
+      border-bottom: 1px solid #666;
+      padding: 0.7em 1rem;
+      background-color: #F3F3F3; }
     .article .article__contents table tbody tr td {
       border-bottom: 1px solid #F3F3F3;
-      padding: 0.25rem 0; }
+      padding: 0.5rem 1rem;
+      vertical-align: top; }
     .article .article__contents table tbody tr:last-child td {
       border-color: #666; }
   .article .article__contents iframe {
